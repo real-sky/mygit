@@ -17,6 +17,7 @@ public class GitTest {
 
         System.out.println("new dev");
 
+        System.out.println(" dev");
 
     }
 }
