@@ -7,7 +7,7 @@ public class GitTest {
 
         System.out.println("origin");
         
-        System.out.println("new branch");
+        System.out.println("n branch");
 
 
 

@@ -35,8 +35,8 @@
       <file leaf-file-name="GitTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/GitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="221">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -48,7 +48,7 @@
             <state relative-caret-position="-2491">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1522392617217" expanded="true" signature="42927:42969" ph="..." />
+                <marker date="1522393982290" expanded="true" signature="42965:43007" ph="..." />
               </folding>
             </state>
           </provider>
@@ -253,7 +253,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2391000" />
+    <option name="totallyTimeSpent" value="2399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="23" width="1440" height="812" extended-state="6" />
@@ -419,7 +419,7 @@
         <state relative-caret-position="-2491">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1522392617217" expanded="true" signature="42927:42969" ph="..." />
+            <marker date="1522393982290" expanded="true" signature="42965:43007" ph="..." />
           </folding>
         </state>
       </provider>
@@ -709,7 +709,7 @@
         <state relative-caret-position="-2491">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1522392617217" expanded="true" signature="42927:42969" ph="..." />
+            <marker date="1522393982290" expanded="true" signature="42965:43007" ph="..." />
           </folding>
         </state>
       </provider>
@@ -724,8 +724,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding />
         </state>
       </provider>
